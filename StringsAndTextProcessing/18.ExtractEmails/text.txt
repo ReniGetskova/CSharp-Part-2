@@ -1,0 +1,3 @@
+Write a program for extracting all email addresses like this "reni.getskova@gmail.com" from given text.
+All sub-strings that match the format: <identifier>@<host>…<domain> should be recognized as emails.
+Here is some other example didi123@yahoo.com for email address.
