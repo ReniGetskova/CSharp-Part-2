@@ -1,0 +1,1 @@
+Write program that removes all words 

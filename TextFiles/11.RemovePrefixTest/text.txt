@@ -1,0 +1,1 @@
+Write a program that deletes testfrom testa testtext testfile testall words that start with the prefix test.
